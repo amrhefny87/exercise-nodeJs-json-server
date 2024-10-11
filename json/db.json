@@ -1,0 +1,101 @@
+{
+    "movies": [
+      {
+        "title": "Inception",
+        "release_year": 2010,
+        "genre": ["Action", "Sci-Fi", "Thriller"],
+        "director": "Christopher Nolan",
+        "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+        "poster": "https://example.com/images/inception.jpg"
+      },
+      {
+        "title": "The Matrix",
+        "release_year": 1999,
+        "genre": ["Action", "Sci-Fi"],
+        "director": "The Wachowskis",
+        "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+        "poster": "https://example.com/images/the-matrix.jpg"
+      },
+      {
+        "title": "The Dark Knight",
+        "release_year": 2008,
+        "genre": ["Action", "Crime", "Drama"],
+        "director": "Christopher Nolan",
+        "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "poster": "https://example.com/images/the-dark-knight.jpg"
+      },
+      {
+        "title": "Interstellar",
+        "release_year": 2014,
+        "genre": ["Adventure", "Drama", "Sci-Fi"],
+        "director": "Christopher Nolan",
+        "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+        "poster": "https://example.com/images/interstellar.jpg"
+      },
+      {
+        "title": "Gladiator",
+        "release_year": 2000,
+        "genre": ["Action", "Adventure", "Drama"],
+        "director": "Ridley Scott",
+        "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+        "poster": "https://example.com/images/gladiator.jpg"
+      },
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "release_year": 2001,
+        "genre": ["Adventure", "Drama", "Fantasy"],
+        "director": "Peter Jackson",
+        "cast": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"],
+        "poster": "https://example.com/images/lotr-fellowship.jpg"
+      },
+      {
+        "title": "Pulp Fiction",
+        "release_year": 1994,
+        "genre": ["Crime", "Drama"],
+        "director": "Quentin Tarantino",
+        "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+        "poster": "https://example.com/images/pulp-fiction.jpg"
+      },
+      {
+        "title": "The Shawshank Redemption",
+        "release_year": 1994,
+        "genre": ["Drama"],
+        "director": "Frank Darabont",
+        "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "poster": "https://example.com/images/shawshank.jpg"
+      },
+      {
+        "title": "Fight Club",
+        "release_year": 1999,
+        "genre": ["Drama"],
+        "director": "David Fincher",
+        "cast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+        "poster": "https://example.com/images/fight-club.jpg"
+      },
+      {
+        "title": "Forrest Gump",
+        "release_year": 1994,
+        "genre": ["Drama", "Romance"],
+        "director": "Robert Zemeckis",
+        "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+        "poster": "https://example.com/images/forrest-gump.jpg"
+      },
+      {
+        "title": "The Godfather",
+        "release_year": 1972,
+        "genre": ["Crime", "Drama"],
+        "director": "Francis Ford Coppola",
+        "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+        "poster": "https://example.com/images/the-godfather.jpg"
+      },
+      {
+        "title": "Avatar",
+        "release_year": 2009,
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "director": "James Cameron",
+        "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+        "poster": "https://example.com/images/avatar.jpg"
+      }
+    ]
+  }
+  

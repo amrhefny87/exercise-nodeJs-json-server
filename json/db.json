@@ -6,7 +6,7 @@
         "genre": ["Action", "Sci-Fi", "Thriller"],
         "director": "Christopher Nolan",
         "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
-        "poster": "https://example.com/images/inception.jpg"
+        "poster": "https://m.media-amazon.com/images/I/71PKz8S1t0L.jpg"
       },
       {
         "title": "The Matrix",
@@ -14,7 +14,7 @@
         "genre": ["Action", "Sci-Fi"],
         "director": "The Wachowskis",
         "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
-        "poster": "https://example.com/images/the-matrix.jpg"
+        "poster": "https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_UF894,1000_QL80_.jpg"
       },
       {
         "title": "The Dark Knight",
@@ -22,7 +22,7 @@
         "genre": ["Action", "Crime", "Drama"],
         "director": "Christopher Nolan",
         "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
-        "poster": "https://example.com/images/the-dark-knight.jpg"
+        "poster": "https://static.posters.cz/image/1300/art-photo/the-dark-knight-trilogy-on-fire-i197743.jpg"
       },
       {
         "title": "Interstellar",
@@ -38,7 +38,7 @@
         "genre": ["Action", "Adventure", "Drama"],
         "director": "Ridley Scott",
         "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
-        "poster": "https://example.com/images/gladiator.jpg"
+        "poster": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2929461/5918651/MOVGE2576__15097.1679570050.jpg"
       },
       {
         "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -46,7 +46,7 @@
         "genre": ["Adventure", "Drama", "Fantasy"],
         "director": "Peter Jackson",
         "cast": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"],
-        "poster": "https://example.com/images/lotr-fellowship.jpg"
+        "poster": "https://images-cdn.ubuy.co.id/634d1909d46781775673cd3d-lord-of-the-rings-fellowship-of-the-ring.jpg"
       },
       {
         "title": "Pulp Fiction",
@@ -54,7 +54,7 @@
         "genre": ["Crime", "Drama"],
         "director": "Quentin Tarantino",
         "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
-        "poster": "https://example.com/images/pulp-fiction.jpg"
+        "poster": "https://i.etsystatic.com/35681979/r/il/23501b/3897205426/il_fullxfull.3897205426_4jb0.jpg"
       },
       {
         "title": "The Shawshank Redemption",
@@ -62,7 +62,7 @@
         "genre": ["Drama"],
         "director": "Frank Darabont",
         "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
-        "poster": "https://example.com/images/shawshank.jpg"
+        "poster": "https://m.media-amazon.com/images/I/71VNhykMgNL.jpg"
       },
       {
         "title": "Fight Club",
@@ -70,7 +70,7 @@
         "genre": ["Drama"],
         "director": "David Fincher",
         "cast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
-        "poster": "https://example.com/images/fight-club.jpg"
+        "poster": "https://i.ebayimg.com/00/s/MTYwMFgxMDY2/z/vc4AAOSwzvpa8PPd/$_57.JPG"
       },
       {
         "title": "Forrest Gump",
@@ -78,7 +78,7 @@
         "genre": ["Drama", "Romance"],
         "director": "Robert Zemeckis",
         "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
-        "poster": "https://example.com/images/forrest-gump.jpg"
+        "poster": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2920525/5964222/MOVAJ2095__61756.1679606794.jpg"
       },
       {
         "title": "The Godfather",
@@ -86,7 +86,7 @@
         "genre": ["Crime", "Drama"],
         "director": "Francis Ford Coppola",
         "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
-        "poster": "https://example.com/images/the-godfather.jpg"
+        "poster": "https://i5.walmartimages.com/seo/The-Godfather-Original-Movie-Poster-poster-Frameless-Gift-12-x-18-inch-30cm-x-46cm_c6df3fd5-1e9c-49ca-8cb6-1af6078df4c2.b21fd8bc877c5645b9340a53580833a2.jpeg"
       },
       {
         "title": "Avatar",
@@ -94,7 +94,7 @@
         "genre": ["Action", "Adventure", "Fantasy"],
         "director": "James Cameron",
         "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
-        "poster": "https://example.com/images/avatar.jpg"
+        "poster": "https://m.media-amazon.com/images/I/51IT55UhhLL.jpg"
       }
     ]
   }
